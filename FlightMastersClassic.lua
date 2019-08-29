@@ -52,8 +52,6 @@ elseif (faction == 'Horde') then
     flight_masters = flight_masters_horde
 end
 
-
-
 for _, npc in ipairs(flight_masters) do
     -- Pins:AddWorldMapIconMap('flight', 'GatherMate2WorldMapPinTemplate', 1455, 55.6, 48.2)
     TomTom:AddWaypoint(npc.map, npc.coords[1]/100, npc.coords[2]/100, {
