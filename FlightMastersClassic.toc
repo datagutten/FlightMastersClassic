@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: FlightMastersClassic
+## Author: datagutten
+## Version: 1.0
+## Notes: Show Flight Masters
+## Dependencies: TomTom
+## X-Category: Map
+
+FlightMastersClassic.lua
