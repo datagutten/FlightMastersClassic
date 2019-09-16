@@ -6,4 +6,5 @@
 ## Dependencies: TomTom
 ## X-Category: Map
 
+libs\LibStub\LibStub.lua
 FlightMastersClassic.lua

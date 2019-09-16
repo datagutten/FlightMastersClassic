@@ -1,1 +1,8 @@
 package-as: FlightMastersClassic
+externals:
+  libs/LibStub:
+    url: https://repos.wowace.com/wow/libstub/trunk
+    tag: latest
+  libs/HereBeDragons:
+    url: https://repos.wowace.com/wow/herebedragons
+    tag: latest
