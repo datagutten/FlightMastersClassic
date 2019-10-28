@@ -19,7 +19,8 @@ local flight_masters_alliance = {
     { npc = 4407, name = "Teloren", coords = { 36.4, 7.2 }, map = 1442 },
     { npc = 2835, name = "Cedrik Prose", coords = { 45.8, 46.2 }, map = 1417 },
     { npc = 6706, name = "Baritanas Skyriver", coords = { 64.6, 10.4 }, map = 1443 },
-    { npc = 4319, name = "Thyssiana", coords = { 89.4, 45.8 }, map = 1444 }
+    { npc = 4319, name = "Thyssiana", coords = { 89.4, 45.8 }, map = 1444 },
+    { npc = 4267, name = "Daelyshia", coords = { 34.4, 48.0 }, map = 1440 }
 }
 
 local flight_masters_horde = {
@@ -40,7 +41,8 @@ local flight_masters_horde = {
     { npc = 4317, name = "Nyse", coords = { 45, 49.2 }, map = 1441 },
     { npc = 7824, name = "Bulkrek Ragefist", coords = { 51.6, 25.4 }, map = 1446 },
     { npc = 11899, name = "Shardi", coords = { 35.6, 31.8 }, map = 1445 },
-    { npc = 2851, name = "Urda", coords = { 73, 32.6 }, map = 1417 }
+    { npc = 2851, name = "Urda", coords = { 73, 32.6 }, map = 1417 },
+    { npc = 6726, name = "Thalon", coords = { 21.6, 74.0 }, map = 1443}
 }
 
 
