@@ -57,7 +57,7 @@ end
 for _, npc in ipairs(flight_masters) do
     -- Pins:AddWorldMapIconMap('flight', 'GatherMate2WorldMapPinTemplate', 1455, 55.6, 48.2)
     TomTom:AddWaypoint(npc.map, npc.coords[1]/100, npc.coords[2]/100, {
-        title = string.format("%s (%s)", npc.name, HBD:GetLocalizedMap(npc.map)),
+        title = string.format("Flight: %s (%s)", npc.name, HBD:GetLocalizedMap(npc.map)),
         minimap = true,
         crazy = false,
     })
