@@ -24,7 +24,21 @@ local flight_masters_alliance = {
     { npc = 2835, name = "Cedrik Prose", coords = { 45.8, 46.2 }, map = 1417 },
     { npc = 6706, name = "Baritanas Skyriver", coords = { 64.6, 10.4 }, map = 1443 },
     { npc = 4319, name = "Thyssiana", coords = { 89.4, 45.8 }, map = 1444 },
-    { npc = 4267, name = "Daelyshia", coords = { 34.4, 48.0 }, map = 1440 }
+    { npc = 4267, name = "Daelyshia", coords = { 34.4, 48.0 }, map = 1440 },
+    { npc = 10583, name = "Gryfe", coords = { 45.2, 5.8 }, map = 1449 },
+    { npc = 10897, name = "Sindrayl", coords = { 48, 67.2 }, map = 1450 },
+    { npc = 12578, name = "Mishellena", coords = { 62.4, 24.2 }, map = 1448 },
+    { npc = 8019, name = "Fyldren Moonfeather", coords = { 30.2, 43.2 }, map = 1444 },
+    { npc = 8609, name = "Alexandra Constantine", coords = { 65.4, 24.4 }, map = 1419 },
+    { npc = 12577, name = "Jarrodenus", coords = { 11.8, 77.4 }, map = 1447 },
+    { npc = 12596, name = "Bibilfaz Featherwhistle", coords = { 42.8, 85 }, map = 1422 },
+    { npc = 2299, name = "Borgus Stoutarm", coords = { 84.4, 68.2 }, map = 1428 },
+    { npc = 2409, name = "Felicia Maline", coords = { 77.4, 44.4 }, map = 1431 },
+    { npc = 11138, name = "Maethrya", coords = { 62.2, 36.6 }, map = 1452 },
+    { npc = 15177, name = "Cloud Skydancer", coords = { 50.6, 34.4 }, map = 1451 },
+    { npc = 6706, name = "Baritanas Skyriver", coords = { 64.6, 10.4 }, map = 1443 },
+    { npc = 8018, name = "Guthrum Thunderfist", coords = { 11, 46 }, map = 1425 },
+    { npc = 12617, name = "Khaelyn Steelwing", coords = { 81.4, 59.2 }, map = 1423 }
 }
 
 local flight_masters_horde = {
