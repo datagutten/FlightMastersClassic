@@ -1,3 +1,7 @@
+local LibStub = _G['LibStub']
+local TomTom = _G['TomTom']
+local UnitFactionGroup = _G['UnitFactionGroup']
+
 local HBD = LibStub("HereBeDragons-2.0")
 --local Pins = LibStub("HereBeDragons-Pins-2.0")
 
