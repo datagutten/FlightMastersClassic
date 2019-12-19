@@ -42,7 +42,19 @@ local flight_masters_horde = {
     { npc = 7824, name = "Bulkrek Ragefist", coords = { 51.6, 25.4 }, map = 1446 },
     { npc = 11899, name = "Shardi", coords = { 35.6, 31.8 }, map = 1445 },
     { npc = 2851, name = "Urda", coords = { 73, 32.6 }, map = 1417 },
-    { npc = 6726, name = "Thalon", coords = { 21.6, 74.0 }, map = 1443}
+    { npc = 6726, name = "Thalon", coords = { 21.6, 74.0 }, map = 1443 },
+    { npc = 11900, name = "Brakkar", coords = { 34.4, 53.8 }, map = 1448 },
+    { npc = 12740, name = "Faustron", coords = { 32.2, 66.4 }, map = 1450 },
+    { npc = 8610, name = "Kroum", coords = { 22, 49.6 }, map = 1447 },
+    { npc = 13177, name = "Vahgruk", coords = { 65.6, 24.2 }, map = 1428 },
+    { npc = 15178, name = "Runk Windtamer", coords = { 48.8, 36.6 }, map = 1451 },
+    { npc = 2861, name = "Gorrik", coords = { 4, 44.8 }, map = 1418 },
+    { npc = 12636, name = "Georgia", coords = { 80.2, 57 }, map = 1423 },
+    { npc = 3305, name = "Grisha", coords = { 34.8, 30.8 }, map = 1427 },
+    { npc = 6026, name = "Breyk", coords = { 46, 54.6 }, map = 1435 },
+    { npc = 4314, name = "Gorkas", coords = { 81.6, 81.8 }, map = 1425 },
+    { npc = 11139, name = "Yugrek", coords = { 60.4, 36.4 }, map = 1452 },
+    { npc = 8020, name = "Shyn", coords = { 75.4, 44.2 }, map = 1444 }
 }
 
 
