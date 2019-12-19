@@ -57,7 +57,6 @@ local flight_masters_horde = {
     { npc = 8020, name = "Shyn", coords = { 75.4, 44.2 }, map = 1444 }
 }
 
-
 local flight_masters
 local faction, _ = UnitFactionGroup("player")
 if (faction == 'Alliance') then
@@ -68,7 +67,7 @@ end
 
 for _, npc in ipairs(flight_masters) do
     -- Pins:AddWorldMapIconMap('flight', 'GatherMate2WorldMapPinTemplate', 1455, 55.6, 48.2)
-    TomTom:AddWaypoint(npc.map, npc.coords[1]/100, npc.coords[2]/100, {
+    TomTom:AddWaypoint(npc.map, npc.coords[1] / 100, npc.coords[2] / 100, {
         title = string.format("Flight: %s (%s)", npc.name, HBD:GetLocalizedMap(npc.map)),
         minimap = true,
         crazy = false,
